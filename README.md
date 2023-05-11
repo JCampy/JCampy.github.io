@@ -1,2 +1,2 @@
-# jcampy.github.io
+# JCampy.github.io
 Personal website
